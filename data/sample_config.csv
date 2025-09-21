@@ -1,0 +1,9 @@
+beer,keg_size_liters,cost_per_keg_gbp,price_per_pint_gbp,avg_pints_sold_per_keg,line_clear_loss_liters,line_clean_loss_liters,line_cleans_per_keg,foam_loss_pct_mean,foam_loss_pct_sd
+Asahi,50,145,5.20,78,1.2,1.0,0.5,0.06,0.02
+Thatchers,50,115,4.60,79,1.0,1.0,0.5,0.05,0.015
+Peroni,50,150,5.50,77,1.5,1.2,0.5,0.07,0.02
+Doom Bar,50,125,4.80,76,1.5,1.0,0.5,0.06,0.02
+Cheddar Ales,30,95,4.70,46,1.0,0.8,0.5,0.07,0.025
+
+
+
